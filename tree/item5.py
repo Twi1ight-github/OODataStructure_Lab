@@ -1,4 +1,6 @@
-
+'''
+ส่วนไหน
+'''
 
 class Node:
     def __init__(self, data):
