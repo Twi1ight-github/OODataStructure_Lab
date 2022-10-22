@@ -1,3 +1,7 @@
+'''
+หาค่า Below
+'''
+
 class Node:
     def __init__(self, data):
         self.data = data
